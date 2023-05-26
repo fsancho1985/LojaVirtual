@@ -1,0 +1,26 @@
+{
+  "name": "lojavirtual",
+  "version": "1.0.0",
+  "description": "Projeto de Loja Virtual para aplicação em vaga de Desenvolvedor Front-End",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/fsancho1985/LojaVirtual"
+  },
+  "keywords": [
+    "Loja-virtual",
+    "desenvolvedo",
+    "front-end"
+  ],
+  "author": "Francisco de Souza Sancho",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  },
+  "dependencies": {
+    "sass": "^1.62.1"
+  }
+}
